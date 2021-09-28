@@ -1,2 +1,2 @@
 # Drawing
-My attempt at drawing with pygame
+My attempt at drawing with Pygame
